@@ -73,7 +73,7 @@
     "@commitlint/cli": "^19.8.0",
     "lefthook": "^1.11.8",
     "prettier": "^3.5.3",
-    "stylelint": "^16.17.0"
+    "stylelint": "^16.18.0"
   },
   "peerDependencies": {
     "stylelint": ">=16.0.0"
