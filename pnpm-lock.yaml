@@ -25,8 +25,8 @@ importers:
         version: 4.0.0(stylelint@16.18.0(typescript@5.8.2))
     devDependencies:
       '@benhigham/commitlint-config':
-        specifier: ^0.1.0
-        version: 0.1.0(@commitlint/cli@19.8.0(@types/node@22.13.14)(typescript@5.8.2))
+        specifier: ^0.1.1
+        version: 0.1.1(@commitlint/cli@19.8.0(@types/node@22.13.14)(typescript@5.8.2))
       '@benhigham/prettier-config':
         specifier: ^0.1.0
         version: 0.1.0(prettier@3.5.3)
@@ -63,8 +63,8 @@ packages:
     resolution: {integrity: sha512-VtPOkrdPHZsKc/clNqyi9WUA8TINkZ4cGk63UUE3u4pmB2k+ZMQRDuIOagv8UVd6j7k0T3+RRIb7beKTebNbcw==}
     engines: {node: '>=6.9.0'}
 
-  '@benhigham/commitlint-config@0.1.0':
-    resolution: {integrity: sha512-1spbSRif9h5yqVI0fwOlLTxhva67zZj9IszKs5pZ4LXntohn1A167IU1RrJtfIZt7EHVhm3z21zE0fF/V+/KXQ==}
+  '@benhigham/commitlint-config@0.1.1':
+    resolution: {integrity: sha512-HQx+o3Mw/LXQwQ3xGIi65bNWCQ9rqJG0YizhTTlAAF5LxVo1I4vCd6cORSwdOHogNSOS951BjKFL8jXYW2atXg==}
     engines: {node: ^18.20.0 || ^20.10.0 || >=21.0.0}
     peerDependencies:
       '@commitlint/cli': '>=19.0.0'
@@ -1199,7 +1199,7 @@ snapshots:
     dependencies:
       regenerator-runtime: 0.14.1
 
-  '@benhigham/commitlint-config@0.1.0(@commitlint/cli@19.8.0(@types/node@22.13.14)(typescript@5.8.2))':
+  '@benhigham/commitlint-config@0.1.1(@commitlint/cli@19.8.0(@types/node@22.13.14)(typescript@5.8.2))':
     dependencies:
       '@commitlint/cli': 19.8.0(@types/node@22.13.14)(typescript@5.8.2)
       '@commitlint/config-conventional': 19.8.0
