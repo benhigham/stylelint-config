@@ -1,5 +1,11 @@
 # @benhigham/stylelint-config
 
+## 0.1.1
+
+### Patch Changes
+
+- [`0aec5ce`](https://github.com/benhigham/stylelint-config/commit/0aec5ce5a2096d86af36bea43c50719806348a1c) Thanks [@benhigham](https://github.com/benhigham)! - Remove stylelint-no-browser-hacks plugin
+
 ## 0.1.0
 
 ### Minor Changes
