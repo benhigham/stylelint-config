@@ -14,14 +14,12 @@ const config = {
     'stylelint-media-use-custom-media',
     'stylelint-use-nesting',
     'stylelint-plugin-require-baseline',
-    'stylelint-no-browser-hacks',
     'stylelint-no-unsupported-browser-features',
     'stylelint-a11y',
   ],
   rules: {
     // Browser compatibility
     'plugin/require-baseline': [true, { available: 'widely' }],
-    'plugin/no-browser-hacks': true,
     'plugin/no-unsupported-browser-features': true,
 
     // SCSS-specific rules
