@@ -41,7 +41,7 @@ Create a `stylelint.config.js` file in your project root and extend this configu
 ```javascript
 /** @type {import('stylelint').Config} */
 export default {
-  extends: ['@benhigham/stylelint-config']
+  extends: ['@benhigham/stylelint-config'],
 };
 ```
 
