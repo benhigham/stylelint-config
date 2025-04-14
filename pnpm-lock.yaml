@@ -8,9 +8,6 @@ importers:
 
   .:
     dependencies:
-      stylelint-a11y:
-        specifier: ^1.2.3
-        version: 1.2.3(stylelint@16.18.0(typescript@5.8.2))
       stylelint-config-recess-order:
         specifier: ^6.0.0
         version: 6.0.0(stylelint@16.18.0(typescript@5.8.2))
@@ -1256,12 +1253,6 @@ packages:
   strip-bom@3.0.0:
     resolution: {integrity: sha512-vavAMRXOgBVNF6nyEEmL3DBK19iRpDcoIwW+swQ+CbGiu7lju6t+JklA1MHweoWtadgt4ISVUsXLyDq34ddcwA==}
     engines: {node: '>=4'}
-
-  stylelint-a11y@1.2.3:
-    resolution: {integrity: sha512-S/iiKFUsYBfa4suxP0pYQqoPB9R1+SnvxVuzHHlz9al0IWxLZzXlnZEqEez0zNOhVh5iO3rATUmDnbZE5wm/pQ==}
-    engines: {node: '>=8.7.0'}
-    peerDependencies:
-      stylelint: ^8.0.0 || ^9.0.0 || ^10.0.0 || ^11.0.0 || ^12.0.0 || ^13.0.0
 
   stylelint-config-recess-order@6.0.0:
     resolution: {integrity: sha512-1KqrttqpIrCYFAVQ1/bbgXo7EvvcjmkxxmnzVr+U66Xr2OlrNZqQ5+44Tmct6grCWY6wGTIBh2tSANqcmwIM2g==}
@@ -2700,10 +2691,6 @@ snapshots:
       ansi-regex: 5.0.1
 
   strip-bom@3.0.0: {}
-
-  stylelint-a11y@1.2.3(stylelint@16.18.0(typescript@5.8.2)):
-    dependencies:
-      stylelint: 16.18.0(typescript@5.8.2)
 
   stylelint-config-recess-order@6.0.0(stylelint@16.18.0(typescript@5.8.2)):
     dependencies:

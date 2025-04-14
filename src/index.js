@@ -15,11 +15,10 @@ const config = {
     'stylelint-use-nesting',
     'stylelint-plugin-require-baseline',
     'stylelint-no-unsupported-browser-features',
-    'stylelint-a11y',
   ],
   rules: {
     // Browser compatibility
-    'plugin/require-baseline': [true, { available: 'widely' }],
+    'plugin/require-baseline': [true, { available: 'newly' }],
     'plugin/no-unsupported-browser-features': true,
 
     // SCSS-specific rules
@@ -63,13 +62,6 @@ const config = {
     'gamut/color-no-out-gamut-range': true,
     'plugin/no-low-performance-animation-properties': true,
     'plugin/no-unresolved-module': { modules: ['node_modules'] },
-
-    // Accessibility
-    'a11y/media-prefers-reduced-motion': true,
-    'a11y/no-outline-none': true,
-    'a11y/selector-pseudo-class-focus': true,
-    'a11y/no-obsolete-attribute': true,
-    'a11y/no-obsolete-element': true,
   },
   overrides: [
     {

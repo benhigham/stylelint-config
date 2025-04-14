@@ -17,7 +17,6 @@ This configuration:
 - Requires proper use of custom media queries and nesting
 - Enforces BEM naming conventions with SUIT CSS methodology
 - Ensures browser compatibility with [Baseline](https://web.dev/baseline) requirements
-- Includes accessibility checks for better a11y compliance
 - Detects and prevents indistinguishable colors and out-of-gamut colors
 - Provides special handling for CSS modules
 
@@ -68,14 +67,12 @@ This configuration includes several plugins:
 - [`stylelint-selector-bem-pattern`](https://github.com/simonsmith/stylelint-selector-bem-pattern): Enforces BEM naming convention
 - [`stylelint-no-browser-hacks`](https://github.com/stylelint/stylelint-no-browser-hacks): Disallows browser hacks
 - [`stylelint-no-unsupported-browser-features`](https://github.com/ismay/stylelint-no-unsupported-browser-features): Warns about unsupported browser features
-- [`stylelint-a11y`](https://github.com/YozhikM/stylelint-a11y): Ensures CSS is accessible
 
 ### Key Rules
 
 - **Browser Compatibility**: Enforces only widely supported CSS features
 - **SCSS Best Practices**: Limits nesting depth, enforces consistent naming patterns
 - **BEM Pattern**: Uses SUIT CSS methodology for class naming
-- **Accessibility**: Ensures focus styles, supports reduced motion, and more
 - **CSS Modules**: Special handling for `.module.scss` files with relaxed naming rules
 
 ## License
