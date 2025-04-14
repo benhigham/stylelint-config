@@ -1,5 +1,11 @@
 # @benhigham/stylelint-config
 
+## 0.2.0
+
+### Minor Changes
+
+- [`70d6ada`](https://github.com/benhigham/stylelint-config/commit/70d6ada2aac1294eb6f291b1992ab475ec5b9f27) Thanks [@benhigham](https://github.com/benhigham)! - Remove stylelint-a11y plugin rules
+
 ## 0.1.1
 
 ### Patch Changes
