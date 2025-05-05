@@ -69,7 +69,7 @@
     "stylelint-no-indistinguishable-colors": "^2.3.1",
     "stylelint-no-unresolved-module": "^2.3.0",
     "stylelint-no-unsupported-browser-features": "^8.0.4",
-    "stylelint-plugin-require-baseline": "^0.1.1",
+    "stylelint-plugin-use-baseline": "^0.4.1",
     "stylelint-selector-bem-pattern": "^4.0.1",
     "stylelint-use-nesting": "^6.0.0"
   },
@@ -77,14 +77,14 @@
     "@benhigham/commitlint-config": "^0.1.2",
     "@benhigham/prettier-config": "^0.1.0",
     "@changesets/changelog-github": "^0.5.1",
-    "@changesets/cli": "^2.28.1",
+    "@changesets/cli": "^2.29.3",
     "@commitlint/cli": "^19.8.0",
-    "lefthook": "^1.11.9",
+    "lefthook": "^1.11.12",
     "prettier": "^3.5.3",
-    "stylelint": "^16.18.0",
+    "stylelint": "^16.19.1",
     "stylelint-find-new-rules": "^5.0.0"
   },
   "peerDependencies": {
-    "stylelint": ">=16.0.0"
+    "stylelint": ">=16.19.1"
   }
 }

@@ -60,12 +60,11 @@ This configuration includes several plugins:
 - [`stylelint-high-performance-animation`](https://github.com/kristerkari/stylelint-high-performance-animation): Prevents using low-performance animation properties
 - [`stylelint-media-use-custom-media`](https://github.com/csstools/stylelint-media-use-custom-media): Enforces the use of custom media queries
 - [`stylelint-use-nesting`](https://github.com/csstools/stylelint-use-nesting): Enforces proper CSS nesting
-- [`stylelint-plugin-require-baseline`](https://github.com/ryo-manba/stylelint-plugin-require-baseline): Disallow CSS features not in [Baseline](https://web.dev/baseline)
+- [`stylelint-plugin-use-baseline`](https://github.com/ryo-manba/stylelint-plugin-use-baseline): Disallow CSS features not in [Baseline](https://web.dev/baseline)
 - [`stylelint-no-unresolved-module`](https://github.com/niksy/stylelint-no-unresolved-module): Ensures all imported modules can be resolved
 - [`stylelint-no-indistinguishable-colors`](https://github.com/ierhyna/stylelint-no-indistinguishable-colors): Prevents colors that are too similar
 - [`stylelint-gamut`](https://github.com/csstools/stylelint-gamut): Prevents colors outside of supported gamut range
 - [`stylelint-selector-bem-pattern`](https://github.com/simonsmith/stylelint-selector-bem-pattern): Enforces BEM naming convention
-- [`stylelint-no-browser-hacks`](https://github.com/stylelint/stylelint-no-browser-hacks): Disallows browser hacks
 - [`stylelint-no-unsupported-browser-features`](https://github.com/ismay/stylelint-no-unsupported-browser-features): Warns about unsupported browser features
 
 ### Key Rules

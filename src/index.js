@@ -13,12 +13,12 @@ const config = {
     'stylelint-selector-bem-pattern',
     'stylelint-media-use-custom-media',
     'stylelint-use-nesting',
-    'stylelint-plugin-require-baseline',
+    'stylelint-plugin-use-baseline',
     'stylelint-no-unsupported-browser-features',
   ],
   rules: {
     // Browser compatibility
-    'plugin/require-baseline': [true, { available: 'newly' }],
+    'plugin/use-baseline': [true, { available: 'newly' }],
     'plugin/no-unsupported-browser-features': true,
 
     // SCSS-specific rules
