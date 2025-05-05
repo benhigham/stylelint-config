@@ -1,5 +1,11 @@
 # @benhigham/stylelint-config
 
+## 0.3.0
+
+### Minor Changes
+
+- [`4f3d7f8`](https://github.com/benhigham/stylelint-config/commit/4f3d7f8be8e17409280313b606706d878f015c83) Thanks [@benhigham](https://github.com/benhigham)! - Replace deprecated `stylelint-plugin-require-baseline` with `stylelint-plugin-use-baseline`
+
 ## 0.2.0
 
 ### Minor Changes
