@@ -49,11 +49,11 @@ importers:
         version: 6.0.0(stylelint@16.19.1(typescript@5.8.2))
     devDependencies:
       '@benhigham/commitlint-config':
-        specifier: ^0.1.2
-        version: 0.1.2(@commitlint/cli@19.8.0(@types/node@22.15.3)(typescript@5.8.2))
+        specifier: ^0.1.3
+        version: 0.1.3(@commitlint/cli@19.8.0(@types/node@22.15.3)(typescript@5.8.2))
       '@benhigham/prettier-config':
-        specifier: ^0.1.0
-        version: 0.1.0(prettier@3.5.3)
+        specifier: ^0.1.1
+        version: 0.1.1(prettier@3.5.3)
       '@changesets/changelog-github':
         specifier: ^0.5.1
         version: 0.5.1
@@ -90,17 +90,17 @@ packages:
     resolution: {integrity: sha512-1x3D2xEk2fRo3PAhwQwu5UubzgiVWSXTBfWpVd2Mx2AzRqJuDJCsgaDVZ7HB5iGzDW1Hl1sWN2mFyKjmR9uAog==}
     engines: {node: '>=6.9.0'}
 
-  '@benhigham/commitlint-config@0.1.2':
-    resolution: {integrity: sha512-AY4cDNmxMaes5GZAWYtAO3FQd2AvWtOLUkfgbgUSWWKwls6ZPHG3b+DRc1bybn8GJco54/YOBP0zUUE0te6hGQ==}
+  '@benhigham/commitlint-config@0.1.3':
+    resolution: {integrity: sha512-qIxV6YSI93hwLrhMlM6uuvFpX4TVNzSTY3Q4bJG1kNDPxfVhPIchdxXjTH0rhKKVsR8rDCPPzZpUPNf22tC7qg==}
     engines: {node: ^18.20.0 || ^20.10.0 || >=21.0.0}
     peerDependencies:
       '@commitlint/cli': '>=19.0.0'
 
-  '@benhigham/prettier-config@0.1.0':
-    resolution: {integrity: sha512-iRC80zR1wiw84ob+lDukja8ei0zJtbfwGt6cjaIS/zGd+kK22TirxLwHTB3SO+oBkBaJFFw2iyFsm9e5RyVH3A==}
+  '@benhigham/prettier-config@0.1.1':
+    resolution: {integrity: sha512-DJRi1IY1aCs8GRp+2J2HhHvcmBrTektfjhAGbJa8Qxo1PlLI2imoGbEKWB2Mqg69ofWSMApkRMYE+G+G2dkG5A==}
     engines: {node: ^18.20.0 || ^20.10.0 || >=21.0.0}
     peerDependencies:
-      prettier: '>=3.0.0'
+      prettier: '>=3.5.3'
 
   '@changesets/apply-release-plan@7.0.12':
     resolution: {integrity: sha512-EaET7As5CeuhTzvXTQCRZeBUcisoYPDDcXvgTE/2jmmypKp0RC7LxKj/yzqeh/1qFTZI7oDGFcL1PHRuQuketQ==}
@@ -1513,14 +1513,14 @@ snapshots:
 
   '@babel/runtime@7.27.1': {}
 
-  '@benhigham/commitlint-config@0.1.2(@commitlint/cli@19.8.0(@types/node@22.15.3)(typescript@5.8.2))':
+  '@benhigham/commitlint-config@0.1.3(@commitlint/cli@19.8.0(@types/node@22.15.3)(typescript@5.8.2))':
     dependencies:
       '@commitlint/cli': 19.8.0(@types/node@22.15.3)(typescript@5.8.2)
       '@commitlint/config-conventional': 19.8.0
       '@commitlint/format': 19.8.0
       conventional-changelog-atom: 5.0.0
 
-  '@benhigham/prettier-config@0.1.0(prettier@3.5.3)':
+  '@benhigham/prettier-config@0.1.1(prettier@3.5.3)':
     dependencies:
       prettier: 3.5.3
 
