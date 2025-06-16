@@ -10,43 +10,43 @@ importers:
     dependencies:
       stylelint-config-recess-order:
         specifier: ^6.0.0
-        version: 6.0.0(stylelint@16.19.1(typescript@5.8.2))
+        version: 6.1.0(stylelint@16.20.0(typescript@5.8.2))
       stylelint-config-standard-scss:
         specifier: ^15.0.1
-        version: 15.0.1(postcss@8.5.3)(stylelint@16.19.1(typescript@5.8.2))
+        version: 15.0.1(postcss@8.5.3)(stylelint@16.20.0(typescript@5.8.2))
       stylelint-declaration-block-no-ignored-properties:
         specifier: ^2.8.0
-        version: 2.8.0(stylelint@16.19.1(typescript@5.8.2))
+        version: 2.8.0(stylelint@16.20.0(typescript@5.8.2))
       stylelint-declaration-strict-value:
         specifier: ^1.10.11
-        version: 1.10.11(stylelint@16.19.1(typescript@5.8.2))
+        version: 1.10.11(stylelint@16.20.0(typescript@5.8.2))
       stylelint-gamut:
         specifier: ^1.3.4
-        version: 1.3.4(stylelint@16.19.1(typescript@5.8.2))
+        version: 1.3.4(stylelint@16.20.0(typescript@5.8.2))
       stylelint-high-performance-animation:
         specifier: ^1.11.0
-        version: 1.11.0(stylelint@16.19.1(typescript@5.8.2))
+        version: 1.11.0(stylelint@16.20.0(typescript@5.8.2))
       stylelint-media-use-custom-media:
         specifier: ^4.0.0
-        version: 4.0.0(stylelint@16.19.1(typescript@5.8.2))
+        version: 4.0.0(stylelint@16.20.0(typescript@5.8.2))
       stylelint-no-indistinguishable-colors:
         specifier: ^2.3.1
-        version: 2.3.1(stylelint@16.19.1(typescript@5.8.2))
+        version: 2.3.1(stylelint@16.20.0(typescript@5.8.2))
       stylelint-no-unresolved-module:
         specifier: ^2.3.0
-        version: 2.3.0(stylelint@16.19.1(typescript@5.8.2))
+        version: 2.3.0(stylelint@16.20.0(typescript@5.8.2))
       stylelint-no-unsupported-browser-features:
         specifier: ^8.0.4
-        version: 8.0.4(stylelint@16.19.1(typescript@5.8.2))
+        version: 8.0.4(stylelint@16.20.0(typescript@5.8.2))
       stylelint-plugin-use-baseline:
         specifier: ^0.5.0
-        version: 0.5.0(stylelint@16.19.1(typescript@5.8.2))
+        version: 0.5.0(stylelint@16.20.0(typescript@5.8.2))
       stylelint-selector-bem-pattern:
         specifier: ^4.0.1
-        version: 4.0.1(stylelint@16.19.1(typescript@5.8.2))
+        version: 4.0.1(stylelint@16.20.0(typescript@5.8.2))
       stylelint-use-nesting:
         specifier: ^6.0.0
-        version: 6.0.0(stylelint@16.19.1(typescript@5.8.2))
+        version: 6.0.0(stylelint@16.20.0(typescript@5.8.2))
     devDependencies:
       '@benhigham/commitlint-config':
         specifier: ^0.1.3
@@ -65,16 +65,16 @@ importers:
         version: 19.8.1(@types/node@22.15.19)(typescript@5.8.2)
       lefthook:
         specifier: ^1.11.13
-        version: 1.11.13
+        version: 1.11.14
       prettier:
         specifier: ^3.5.3
         version: 3.5.3
       stylelint:
         specifier: ^16.19.1
-        version: 16.19.1(typescript@5.8.2)
+        version: 16.20.0(typescript@5.8.2)
       stylelint-find-new-rules:
         specifier: ^5.0.0
-        version: 5.0.0(stylelint@16.19.1(typescript@5.8.2))
+        version: 5.0.0(stylelint@16.20.0(typescript@5.8.2))
 
 packages:
 
@@ -804,58 +804,58 @@ packages:
   known-css-properties@0.36.0:
     resolution: {integrity: sha512-A+9jP+IUmuQsNdsLdcg6Yt7voiMF/D4K83ew0OpJtpu+l34ef7LaohWV0Rc6KNvzw6ZDizkqfyB5JznZnzuKQA==}
 
-  lefthook-darwin-arm64@1.11.13:
-    resolution: {integrity: sha512-gHwHofXupCtzNLN+8esdWfFTnAEkmBxE/WKA0EwxPPJXdZYa1GUsiG5ipq/CdG/0j8ekYyM9Hzyrrk5BqJ42xw==}
+  lefthook-darwin-arm64@1.11.14:
+    resolution: {integrity: sha512-YPbUK6kGytY5W6aNUrzK7Vod3ynLVvj5JQiBh0DjlxCHMgIQPpFkDfwQzGw1E8CySyC95HXO83En5Ule8umS7g==}
     cpu: [arm64]
     os: [darwin]
 
-  lefthook-darwin-x64@1.11.13:
-    resolution: {integrity: sha512-zYxkWNUirmTidhskY9J9AwxvdMi3YKH+TqZ3AQ1EOqkOwPBWJQW5PbnzsXDrd3YnrtZScYm/tE/moXJpEPPIpQ==}
+  lefthook-darwin-x64@1.11.14:
+    resolution: {integrity: sha512-l9RhSBp1SHqLCjSGWoeeVWqKcTBOMW8v2CCYrUt5eb6sik7AjT6+Neqf3sClsXH7SjELjj43yjmg6loqPtfDgg==}
     cpu: [x64]
     os: [darwin]
 
-  lefthook-freebsd-arm64@1.11.13:
-    resolution: {integrity: sha512-gJzWnllcMcivusmPorEkXPpEciKotlBHn7QxWwYaSjss/U3YdZu+NTjDO30b3qeiVlyq4RAZ4BPKJODXxHHwUA==}
+  lefthook-freebsd-arm64@1.11.14:
+    resolution: {integrity: sha512-oSdJKGGMohktFXC6faZCUt5afyHpDwWGIWAkHGgOXUVD/LiZDEn6U/8cQmKm1UAfBySuPTtfir0VeM04y6188g==}
     cpu: [arm64]
     os: [freebsd]
 
-  lefthook-freebsd-x64@1.11.13:
-    resolution: {integrity: sha512-689XdchgtDvZQWFFx1szUvm/mqrq/v6laki0odq5FAfcSgUeLu3w+z6UicBS5l55eFJuQTDNKARFqrKJ04e+Vw==}
+  lefthook-freebsd-x64@1.11.14:
+    resolution: {integrity: sha512-gZdMWZwOtIhIPK3GPYac7JhXrxF188gkw65i6O7CedS/meDlK2vjBv5BUVLeD/satv4+jibEdV0h4Qqu/xIh2A==}
     cpu: [x64]
     os: [freebsd]
 
-  lefthook-linux-arm64@1.11.13:
-    resolution: {integrity: sha512-ujCLbaZg5S/Ao8KZAcNSb+Y3gl898ZEM0YKyiZmZo22dFFpm/5gcV46pF3xaqIw5IpH+3YYDTKDU+qTetmARyQ==}
+  lefthook-linux-arm64@1.11.14:
+    resolution: {integrity: sha512-sZmqbTsGQFQw7gbfi9eIHFOxfcs66QfZYLRMh1DktODhyhRXB8RtI6KMeKCtPEGLhbK55/I4TprC8Qvj86UBgw==}
     cpu: [arm64]
     os: [linux]
 
-  lefthook-linux-x64@1.11.13:
-    resolution: {integrity: sha512-O5WdodeBtFOXQlvPcckqp4W/yqVM9DbVQBkvOxwSJlmsxO4sGYK1TqdxH9ihLB85B2kPPssZj9ze36/oizzhVQ==}
+  lefthook-linux-x64@1.11.14:
+    resolution: {integrity: sha512-c+to1BRzFe419SNXAR6YpCBP8EVWxvUxlON3Z+efzmrHhdlhm7LvEoJcN4RQE4Gc2rJQJNe87OjsEZQkc4uQLg==}
     cpu: [x64]
     os: [linux]
 
-  lefthook-openbsd-arm64@1.11.13:
-    resolution: {integrity: sha512-SyBpciUfvY/lUDbZu7L6MtL/SVG2+yMTckBgb4PdJQhJlisY0IsyOYdlTw2icPPrY7JnwdsFv8UW0EJOB76W4g==}
+  lefthook-openbsd-arm64@1.11.14:
+    resolution: {integrity: sha512-fivG3D9G4ASRCTf3ecfz1WdnrHCW9pezaI8v1NVve8t6B2q0d0yeaje5dfhoAsAvwiFPRaMzka1Qaoyu8O8G9Q==}
     cpu: [arm64]
     os: [openbsd]
 
-  lefthook-openbsd-x64@1.11.13:
-    resolution: {integrity: sha512-6+/0j6O2dzo9cjTWUKfL2J6hRR7Krna/ssqnW8cWh8QHZKO9WJn34epto9qgjeHwSysou8byI7Mwv5zOGthLCQ==}
+  lefthook-openbsd-x64@1.11.14:
+    resolution: {integrity: sha512-vikmG0jf7JVKR3be6Wk3l1jtEdedEqk1BTdsaHFX1bj0qk0azcqlZ819Wt/IoyIYDzQCHKowZ6DuXsRjT+RXWA==}
     cpu: [x64]
     os: [openbsd]
 
-  lefthook-windows-arm64@1.11.13:
-    resolution: {integrity: sha512-w5TwZ8bsZ17uOMtYGc5oEb4tCHjNTSeSXRy6H9Yic8E7IsPZtZLkaZGnIIwgXFuhhrcCdc6FuTvKt2tyV7EW2g==}
+  lefthook-windows-arm64@1.11.14:
+    resolution: {integrity: sha512-5PoAJ9QKaqxJn1NWrhrhXpAROpl/dT7bGTo7VMj2ATO1cpRatbn6p+ssvc3tgeriFThowFb1D11Fg6OlFLi6UQ==}
     cpu: [arm64]
     os: [win32]
 
-  lefthook-windows-x64@1.11.13:
-    resolution: {integrity: sha512-7lvwnIs8CNOXKU4y3i1Pbqna+QegIORkSD2VCuHBNpIJ8H84NpjoG3tKU91IM/aI1a2eUvCk+dw+1rfMRz7Ytg==}
+  lefthook-windows-x64@1.11.14:
+    resolution: {integrity: sha512-kBeOPR0Aj5hQGxoBBntgz5/e/xaH5Vnzlq9lJjHW8sf23qu/JVUGg6ceCoicyVWJi+ZOBliTa8KzwCu+mgyJjw==}
     cpu: [x64]
     os: [win32]
 
-  lefthook@1.11.13:
-    resolution: {integrity: sha512-SDTk3D4nW1XRpR9u9fdYQ/qj1xeZVIwZmIFdJUnyq+w9ZLdCCvIrOmtD8SFiJowSevISjQDC+f9nqyFXUxc0SQ==}
+  lefthook@1.11.14:
+    resolution: {integrity: sha512-Dv91Lnu/0jLT5pCZE0IkEfrpTXUhyX9WG4upEMPkKPCl5aBgJdoqVw/hbh8drcVrC6y7k1PqsRmWSERmO57weQ==}
     hasBin: true
 
   lines-and-columns@1.2.4:
@@ -1251,8 +1251,8 @@ packages:
     resolution: {integrity: sha512-vavAMRXOgBVNF6nyEEmL3DBK19iRpDcoIwW+swQ+CbGiu7lju6t+JklA1MHweoWtadgt4ISVUsXLyDq34ddcwA==}
     engines: {node: '>=4'}
 
-  stylelint-config-recess-order@6.0.0:
-    resolution: {integrity: sha512-1KqrttqpIrCYFAVQ1/bbgXo7EvvcjmkxxmnzVr+U66Xr2OlrNZqQ5+44Tmct6grCWY6wGTIBh2tSANqcmwIM2g==}
+  stylelint-config-recess-order@6.1.0:
+    resolution: {integrity: sha512-0rGZgJQjUKqv1PXZnRJxr13f3hb3i2snx2nIL6luDWUf4nD3BAweB8noS7jdfBQ56HQG3RKSF0a+MAHfBGFxgw==}
     peerDependencies:
       stylelint: '>=16'
 
@@ -1369,8 +1369,8 @@ packages:
     peerDependencies:
       stylelint: '>= 16.9.0'
 
-  stylelint@16.19.1:
-    resolution: {integrity: sha512-C1SlPZNMKl+d/C867ZdCRthrS+6KuZ3AoGW113RZCOL0M8xOGpgx7G70wq7lFvqvm4dcfdGFVLB/mNaLFChRKw==}
+  stylelint@16.20.0:
+    resolution: {integrity: sha512-B5Myu9WRxrgKuLs3YyUXLP2H0mrbejwNxPmyADlACWwFsrL8Bmor/nTSh4OMae5sHjOz6gkSeccQH34gM4/nAw==}
     engines: {node: '>=18.12.0'}
     hasBin: true
 
@@ -2313,48 +2313,48 @@ snapshots:
 
   known-css-properties@0.36.0: {}
 
-  lefthook-darwin-arm64@1.11.13:
+  lefthook-darwin-arm64@1.11.14:
     optional: true
 
-  lefthook-darwin-x64@1.11.13:
+  lefthook-darwin-x64@1.11.14:
     optional: true
 
-  lefthook-freebsd-arm64@1.11.13:
+  lefthook-freebsd-arm64@1.11.14:
     optional: true
 
-  lefthook-freebsd-x64@1.11.13:
+  lefthook-freebsd-x64@1.11.14:
     optional: true
 
-  lefthook-linux-arm64@1.11.13:
+  lefthook-linux-arm64@1.11.14:
     optional: true
 
-  lefthook-linux-x64@1.11.13:
+  lefthook-linux-x64@1.11.14:
     optional: true
 
-  lefthook-openbsd-arm64@1.11.13:
+  lefthook-openbsd-arm64@1.11.14:
     optional: true
 
-  lefthook-openbsd-x64@1.11.13:
+  lefthook-openbsd-x64@1.11.14:
     optional: true
 
-  lefthook-windows-arm64@1.11.13:
+  lefthook-windows-arm64@1.11.14:
     optional: true
 
-  lefthook-windows-x64@1.11.13:
+  lefthook-windows-x64@1.11.14:
     optional: true
 
-  lefthook@1.11.13:
+  lefthook@1.11.14:
     optionalDependencies:
-      lefthook-darwin-arm64: 1.11.13
-      lefthook-darwin-x64: 1.11.13
-      lefthook-freebsd-arm64: 1.11.13
-      lefthook-freebsd-x64: 1.11.13
-      lefthook-linux-arm64: 1.11.13
-      lefthook-linux-x64: 1.11.13
-      lefthook-openbsd-arm64: 1.11.13
-      lefthook-openbsd-x64: 1.11.13
-      lefthook-windows-arm64: 1.11.13
-      lefthook-windows-x64: 1.11.13
+      lefthook-darwin-arm64: 1.11.14
+      lefthook-darwin-x64: 1.11.14
+      lefthook-freebsd-arm64: 1.11.14
+      lefthook-freebsd-x64: 1.11.14
+      lefthook-linux-arm64: 1.11.14
+      lefthook-linux-x64: 1.11.14
+      lefthook-openbsd-arm64: 1.11.14
+      lefthook-openbsd-x64: 1.11.14
+      lefthook-windows-arm64: 1.11.14
+      lefthook-windows-x64: 1.11.14
 
   lines-and-columns@1.2.4: {}
 
@@ -2685,74 +2685,74 @@ snapshots:
 
   strip-bom@3.0.0: {}
 
-  stylelint-config-recess-order@6.0.0(stylelint@16.19.1(typescript@5.8.2)):
+  stylelint-config-recess-order@6.1.0(stylelint@16.20.0(typescript@5.8.2)):
     dependencies:
-      stylelint: 16.19.1(typescript@5.8.2)
-      stylelint-order: 6.0.4(stylelint@16.19.1(typescript@5.8.2))
+      stylelint: 16.20.0(typescript@5.8.2)
+      stylelint-order: 6.0.4(stylelint@16.20.0(typescript@5.8.2))
 
-  stylelint-config-recommended-scss@15.0.1(postcss@8.5.3)(stylelint@16.19.1(typescript@5.8.2)):
+  stylelint-config-recommended-scss@15.0.1(postcss@8.5.3)(stylelint@16.20.0(typescript@5.8.2)):
     dependencies:
       postcss-scss: 4.0.9(postcss@8.5.3)
-      stylelint: 16.19.1(typescript@5.8.2)
-      stylelint-config-recommended: 16.0.0(stylelint@16.19.1(typescript@5.8.2))
-      stylelint-scss: 6.12.0(stylelint@16.19.1(typescript@5.8.2))
+      stylelint: 16.20.0(typescript@5.8.2)
+      stylelint-config-recommended: 16.0.0(stylelint@16.20.0(typescript@5.8.2))
+      stylelint-scss: 6.12.0(stylelint@16.20.0(typescript@5.8.2))
     optionalDependencies:
       postcss: 8.5.3
 
-  stylelint-config-recommended@16.0.0(stylelint@16.19.1(typescript@5.8.2)):
+  stylelint-config-recommended@16.0.0(stylelint@16.20.0(typescript@5.8.2)):
     dependencies:
-      stylelint: 16.19.1(typescript@5.8.2)
+      stylelint: 16.20.0(typescript@5.8.2)
 
-  stylelint-config-standard-scss@15.0.1(postcss@8.5.3)(stylelint@16.19.1(typescript@5.8.2)):
+  stylelint-config-standard-scss@15.0.1(postcss@8.5.3)(stylelint@16.20.0(typescript@5.8.2)):
     dependencies:
-      stylelint: 16.19.1(typescript@5.8.2)
-      stylelint-config-recommended-scss: 15.0.1(postcss@8.5.3)(stylelint@16.19.1(typescript@5.8.2))
-      stylelint-config-standard: 38.0.0(stylelint@16.19.1(typescript@5.8.2))
+      stylelint: 16.20.0(typescript@5.8.2)
+      stylelint-config-recommended-scss: 15.0.1(postcss@8.5.3)(stylelint@16.20.0(typescript@5.8.2))
+      stylelint-config-standard: 38.0.0(stylelint@16.20.0(typescript@5.8.2))
     optionalDependencies:
       postcss: 8.5.3
 
-  stylelint-config-standard@38.0.0(stylelint@16.19.1(typescript@5.8.2)):
+  stylelint-config-standard@38.0.0(stylelint@16.20.0(typescript@5.8.2)):
     dependencies:
-      stylelint: 16.19.1(typescript@5.8.2)
-      stylelint-config-recommended: 16.0.0(stylelint@16.19.1(typescript@5.8.2))
+      stylelint: 16.20.0(typescript@5.8.2)
+      stylelint-config-recommended: 16.0.0(stylelint@16.20.0(typescript@5.8.2))
 
-  stylelint-declaration-block-no-ignored-properties@2.8.0(stylelint@16.19.1(typescript@5.8.2)):
+  stylelint-declaration-block-no-ignored-properties@2.8.0(stylelint@16.20.0(typescript@5.8.2)):
     dependencies:
-      stylelint: 16.19.1(typescript@5.8.2)
+      stylelint: 16.20.0(typescript@5.8.2)
 
-  stylelint-declaration-strict-value@1.10.11(stylelint@16.19.1(typescript@5.8.2)):
+  stylelint-declaration-strict-value@1.10.11(stylelint@16.20.0(typescript@5.8.2)):
     dependencies:
-      stylelint: 16.19.1(typescript@5.8.2)
+      stylelint: 16.20.0(typescript@5.8.2)
 
-  stylelint-find-new-rules@5.0.0(stylelint@16.19.1(typescript@5.8.2)):
+  stylelint-find-new-rules@5.0.0(stylelint@16.20.0(typescript@5.8.2)):
     dependencies:
       columnify: 1.6.0
       picocolors: 1.1.1
       read-package-up: 11.0.0
       read-pkg: 9.0.1
-      stylelint: 16.19.1(typescript@5.8.2)
+      stylelint: 16.20.0(typescript@5.8.2)
       yargs: 17.7.2
 
-  stylelint-gamut@1.3.4(stylelint@16.19.1(typescript@5.8.2)):
+  stylelint-gamut@1.3.4(stylelint@16.20.0(typescript@5.8.2)):
     dependencies:
       colorjs.io: 0.4.5
-      stylelint: 16.19.1(typescript@5.8.2)
+      stylelint: 16.20.0(typescript@5.8.2)
 
-  stylelint-high-performance-animation@1.11.0(stylelint@16.19.1(typescript@5.8.2)):
+  stylelint-high-performance-animation@1.11.0(stylelint@16.20.0(typescript@5.8.2)):
     dependencies:
       postcss-value-parser: 4.2.0
-      stylelint: 16.19.1(typescript@5.8.2)
+      stylelint: 16.20.0(typescript@5.8.2)
 
-  stylelint-media-use-custom-media@4.0.0(stylelint@16.19.1(typescript@5.8.2)):
+  stylelint-media-use-custom-media@4.0.0(stylelint@16.20.0(typescript@5.8.2)):
     dependencies:
-      stylelint: 16.19.1(typescript@5.8.2)
+      stylelint: 16.20.0(typescript@5.8.2)
 
-  stylelint-no-indistinguishable-colors@2.3.1(stylelint@16.19.1(typescript@5.8.2)):
+  stylelint-no-indistinguishable-colors@2.3.1(stylelint@16.20.0(typescript@5.8.2)):
     dependencies:
       colorguard-processor: 2.0.36
-      stylelint: 16.19.1(typescript@5.8.2)
+      stylelint: 16.20.0(typescript@5.8.2)
 
-  stylelint-no-unresolved-module@2.3.0(stylelint@16.19.1(typescript@5.8.2)):
+  stylelint-no-unresolved-module@2.3.0(stylelint@16.20.0(typescript@5.8.2)):
     dependencies:
       ajv: 6.12.6
       enhanced-resolve: 5.18.1
@@ -2760,28 +2760,28 @@ snapshots:
       p-waterfall: 2.1.1
       postcss-value-parser: 4.2.0
       scss-parser: 1.0.6
-      stylelint: 16.19.1(typescript@5.8.2)
+      stylelint: 16.20.0(typescript@5.8.2)
 
-  stylelint-no-unsupported-browser-features@8.0.4(stylelint@16.19.1(typescript@5.8.2)):
+  stylelint-no-unsupported-browser-features@8.0.4(stylelint@16.20.0(typescript@5.8.2)):
     dependencies:
       doiuse: 6.0.5
       postcss: 8.5.3
-      stylelint: 16.19.1(typescript@5.8.2)
+      stylelint: 16.20.0(typescript@5.8.2)
 
-  stylelint-order@6.0.4(stylelint@16.19.1(typescript@5.8.2)):
+  stylelint-order@6.0.4(stylelint@16.20.0(typescript@5.8.2)):
     dependencies:
       postcss: 8.5.3
       postcss-sorting: 8.0.2(postcss@8.5.3)
-      stylelint: 16.19.1(typescript@5.8.2)
+      stylelint: 16.20.0(typescript@5.8.2)
 
-  stylelint-plugin-use-baseline@0.5.0(stylelint@16.19.1(typescript@5.8.2)):
+  stylelint-plugin-use-baseline@0.5.0(stylelint@16.20.0(typescript@5.8.2)):
     dependencies:
       css-tree: 3.1.0
       postcss: 8.5.3
       postcss-value-parser: 4.2.0
-      stylelint: 16.19.1(typescript@5.8.2)
+      stylelint: 16.20.0(typescript@5.8.2)
 
-  stylelint-scss@6.12.0(stylelint@16.19.1(typescript@5.8.2)):
+  stylelint-scss@6.12.0(stylelint@16.20.0(typescript@5.8.2)):
     dependencies:
       css-tree: 3.1.0
       is-plain-object: 5.0.0
@@ -2791,20 +2791,20 @@ snapshots:
       postcss-resolve-nested-selector: 0.1.6
       postcss-selector-parser: 7.1.0
       postcss-value-parser: 4.2.0
-      stylelint: 16.19.1(typescript@5.8.2)
+      stylelint: 16.20.0(typescript@5.8.2)
 
-  stylelint-selector-bem-pattern@4.0.1(stylelint@16.19.1(typescript@5.8.2)):
+  stylelint-selector-bem-pattern@4.0.1(stylelint@16.20.0(typescript@5.8.2)):
     dependencies:
       lodash: 4.17.21
       postcss: 8.5.3
       postcss-bem-linter: 4.0.1(postcss@8.5.3)
-      stylelint: 16.19.1(typescript@5.8.2)
+      stylelint: 16.20.0(typescript@5.8.2)
 
-  stylelint-use-nesting@6.0.0(stylelint@16.19.1(typescript@5.8.2)):
+  stylelint-use-nesting@6.0.0(stylelint@16.20.0(typescript@5.8.2)):
     dependencies:
-      stylelint: 16.19.1(typescript@5.8.2)
+      stylelint: 16.20.0(typescript@5.8.2)
 
-  stylelint@16.19.1(typescript@5.8.2):
+  stylelint@16.20.0(typescript@5.8.2):
     dependencies:
       '@csstools/css-parser-algorithms': 3.0.4(@csstools/css-tokenizer@3.0.3)
       '@csstools/css-tokenizer': 3.0.3
