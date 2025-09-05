@@ -43,7 +43,7 @@ importers:
         version: 7.0.0(stylelint@16.23.1(typescript@5.8.2))
       stylelint-plugin-use-baseline:
         specifier: ^0.8.3
-        version: 0.8.3(stylelint@16.23.1(typescript@5.8.2))
+        version: 0.8.4(stylelint@16.23.1(typescript@5.8.2))
       stylelint-selector-bem-pattern:
         specifier: ^4.0.1
         version: 4.0.1(stylelint@16.23.1(typescript@5.8.2))
@@ -1460,8 +1460,8 @@ packages:
     peerDependencies:
       stylelint: ^16.18.0
 
-  stylelint-plugin-use-baseline@0.8.3:
-    resolution: {integrity: sha512-31tfrFwoBJIaSjFznekmoPdjqmgZHz3RFVm2xxSL+TxRx/pwVny1zSbj0+mt6hD2BZ2WHTHnJqXfiqZCi/pmiA==}
+  stylelint-plugin-use-baseline@0.8.4:
+    resolution: {integrity: sha512-akbk30xnp8WIsPl97V6OkrkLOp5bGkweCpB3yX28jdToQUBLmhlEgklHYMo+yxI+xWS/VVOe1vT+4GSILbP6hw==}
     peerDependencies:
       stylelint: ^16.0.2
 
@@ -2983,7 +2983,7 @@ snapshots:
       postcss-sorting: 9.1.0(postcss@8.5.6)
       stylelint: 16.23.1(typescript@5.8.2)
 
-  stylelint-plugin-use-baseline@0.8.3(stylelint@16.23.1(typescript@5.8.2)):
+  stylelint-plugin-use-baseline@0.8.4(stylelint@16.23.1(typescript@5.8.2)):
     dependencies:
       css-tree: 3.1.0
       postcss: 8.5.6
