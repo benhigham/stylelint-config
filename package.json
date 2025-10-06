@@ -70,7 +70,7 @@
     "stylelint-no-unresolved-module": "^2.4.0",
     "stylelint-no-unsupported-browser-features": "^8.0.4",
     "stylelint-order": "^7.0.0",
-    "stylelint-plugin-use-baseline": "^0.9.0",
+    "stylelint-plugin-use-baseline": "^1.0.1",
     "stylelint-selector-bem-pattern": "^4.0.1",
     "stylelint-use-nesting": "^6.0.0"
   },
