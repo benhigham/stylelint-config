@@ -80,7 +80,7 @@
     "@changesets/changelog-github": "^0.5.1",
     "@changesets/cli": "^2.29.6",
     "@commitlint/cli": "^19.8.1",
-    "lefthook": "^1.12.3",
+    "lefthook": "^2.0.0",
     "prettier": "^3.6.2",
     "stylelint": "^16.23.1",
     "stylelint-find-new-rules": "^5.0.0"
