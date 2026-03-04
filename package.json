@@ -87,5 +87,10 @@
   },
   "peerDependencies": {
     "stylelint": ">=16.19.1"
+  },
+  "pnpm": {
+    "overrides": {
+      "lodash": ">=4.17.23"
+    }
   }
 }
