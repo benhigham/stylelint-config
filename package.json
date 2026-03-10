@@ -90,7 +90,7 @@
   },
   "pnpm": {
     "overrides": {
-      "lodash": ">=4.17.23"
+      "lodash": "4.17.23"
     }
   }
 }
