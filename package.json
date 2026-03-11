@@ -63,7 +63,7 @@
     "stylelint-config-standard-scss": "^16.0.0",
     "stylelint-declaration-block-no-ignored-properties": "^2.8.0",
     "stylelint-declaration-strict-value": "^1.10.11",
-    "stylelint-gamut": "^1.3.4",
+    "stylelint-gamut": "^2.0.0",
     "stylelint-high-performance-animation": "^1.11.0",
     "stylelint-media-use-custom-media": "^4.0.0",
     "stylelint-no-indistinguishable-colors": "^2.3.1",
