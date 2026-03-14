@@ -1,5 +1,20 @@
 # @benhigham/stylelint-config
 
+## 0.4.0
+
+### Minor Changes
+
+- [#73](https://github.com/benhigham/stylelint-config/pull/73) [`977f977`](https://github.com/benhigham/stylelint-config/commit/977f977b6132d469f3cb0262a4848fb565a0644b) Thanks [@benhigham](https://github.com/benhigham)! - - Bump `stylelint-gamut` from v1 to v2 — migrated to ESM, adds Stylelint v17 support; no config changes required
+
+- [#62](https://github.com/benhigham/stylelint-config/pull/62) [`e96f41f`](https://github.com/benhigham/stylelint-config/commit/e96f41fe6cad18974b49a22a1c904d27d4b4821f) Thanks [@benhigham](https://github.com/benhigham)! - Bump `stylelint-config-standard-scss` from v15 to v16 and `stylelint-plugin-use-baseline` from v0.9 to v1.0
+
+  Both are direct dependencies and may introduce new or updated rules for consumers.
+
+### Patch Changes
+
+- [#78](https://github.com/benhigham/stylelint-config/pull/78) [`e78f002`](https://github.com/benhigham/stylelint-config/commit/e78f0023ac0389c2a5b33a939934df79578e41f4) Thanks [@benhigham](https://github.com/benhigham)! - - Normalise `engines.node` to `>=22` (was `>=22.15.0`) for consistency with other config repos
+  - Bump `packageManager` to `pnpm@10.32.1`
+
 ## 0.3.0
 
 ### Minor Changes
