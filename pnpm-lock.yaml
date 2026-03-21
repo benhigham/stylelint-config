@@ -55,8 +55,8 @@ importers:
         specifier: ^1.0.0
         version: 1.0.0(@commitlint/cli@20.5.0(@types/node@24.3.0)(conventional-commits-parser@6.3.0)(typescript@5.8.2))
       '@benhigham/prettier-config':
-        specifier: ^0.1.1
-        version: 0.1.1(prettier@3.8.1)
+        specifier: ^1.0.0
+        version: 1.0.0(prettier@3.8.1)
       '@changesets/changelog-github':
         specifier: ^0.6.0
         version: 0.6.0
@@ -99,9 +99,9 @@ packages:
     peerDependencies:
       '@commitlint/cli': '>=20.0.0'
 
-  '@benhigham/prettier-config@0.1.1':
-    resolution: {integrity: sha512-DJRi1IY1aCs8GRp+2J2HhHvcmBrTektfjhAGbJa8Qxo1PlLI2imoGbEKWB2Mqg69ofWSMApkRMYE+G+G2dkG5A==}
-    engines: {node: ^18.20.0 || ^20.10.0 || >=21.0.0}
+  '@benhigham/prettier-config@1.0.0':
+    resolution: {integrity: sha512-KqGAgE0sSZP65xDFtf44IzpAjuJZfRJG4Av/7nEcqVsl7eIVu526oWyGX+JkSML3hPKlfzkoE/ZrXXor2VYVlA==}
+    engines: {node: '>=22'}
     peerDependencies:
       prettier: '>=3.5.3'
 
@@ -1612,7 +1612,7 @@ snapshots:
       '@commitlint/config-conventional': 20.4.3
       '@commitlint/format': 20.4.3
 
-  '@benhigham/prettier-config@0.1.1(prettier@3.8.1)':
+  '@benhigham/prettier-config@1.0.0(prettier@3.8.1)':
     dependencies:
       prettier: 3.8.1
 
